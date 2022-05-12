@@ -1,0 +1,59 @@
+.Croissant
+{
+    background-image: url('./images/bg-04-free-img.png');
+    background-repeat: no-repeat;
+    background-size: 1350px 400px;
+    padding-top: 150px;
+}
+.cro_text
+{
+    padding: 0 50px 50px;
+}
+.cro_text h5 
+{
+    font-size: 20px;
+    color: #ffffff94;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.cro_text h2 
+{
+    font-size: 70px;
+}
+.cro_text h4 
+{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.cro_text h6 
+{
+    width: 50px;
+    height: 1px;
+    background-color: white;
+    margin: 20px 0 40px;
+}
+.cro_text p 
+{
+    font-size: 15px;
+    width: 70%;
+    color: #ffffff94;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.cro_text span 
+{
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+    font-family: inherit;
+}
+.cro_text span i 
+{
+    margin-left: 7px;
+}
+.cro_img img
+{
+    background-position: top right;
+}
